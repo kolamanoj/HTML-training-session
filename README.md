@@ -27,7 +27,7 @@ Learing HTML
   <tr>
     <td>4</td>
     <td>Activity4</td>
-    <td>Understanding of NoScript</td>
+    <td>Understanding of NoScript Tags</td>
   </tr>
   </table>
     
