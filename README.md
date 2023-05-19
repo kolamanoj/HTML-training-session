@@ -44,6 +44,11 @@ Learing HTML
     <td>Activity-7</td>
     <td>Title for Web Documents</td>
   </tr>
+   <tr>
+    <td>8</td>
+    <td>Activity-8</td>
+    <td>Internal Style Sheet</td>
+  </tr>
   </table>
     
     
