@@ -1,0 +1,34 @@
+# HTML-training-session
+Learing HTML
+
+# Table of Contents
+
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Name of Activity</th>
+    <th>Description</th>
+    </tr>
+  <tr>
+    <td>1</td>
+    <td>Activity1</td>
+    <td>Understanding Meta Tags</td>
+   </tr>
+  <tr>
+  <td>2</td>
+  <td>Activity2</td>
+  <td>Understanding of Internal JavaScript</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Activity3</td>
+    <td>Underastanding of External JavaScript</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Activity4</td>
+    <td>Understanding of NoScript</td>
+  </tr>
+  </table>
+    
+    
